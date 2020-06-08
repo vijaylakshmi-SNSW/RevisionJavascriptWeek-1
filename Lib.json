@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Sydney's lib",
+        "address": "Sydney",
+        "headLibrarian": {
+            "name": "Rex",
+            "age": 23
+        },
+        "books": [
+            {
+                "title": "The king0",
+                "author": "abc0",
+                "yearOfPublication": 1900
+            },
+            {
+                "title": "The Queen0",
+                "author": "def0",
+                "yearOfPublication": 2013
+            },
+            {
+                "title": "The Prince0",
+                "author": "ghi0",
+                "yearOfPublication": 2016
+            }
+        ]
+    },
+    {
+        "name": "Schofields lib",
+        "address": "Schofields",
+        "headLibrarian": {
+            "name": "Kim",
+            "age": 45
+        },
+        "books": [
+            {
+                "title": "The king1",
+                "author": "abc1",
+                "yearOfPublication": 1900
+            },
+            {
+                "title": "The Queen1",
+                "author": "def1",
+                "yearOfPublication": 2013
+            },
+            {
+                "title": "The Prince1",
+                "author": "ghi1",
+                "yearOfPublication": 2016
+            }
+        ]
+    },
+    {
+        "name": "Castle hill lib",
+        "address": "Castle Hill",
+        "headLibrarian": {
+            "name": "Sam",
+            "age": 65
+        },
+        "books": [
+            {
+                "title": "The king2",
+                "author": "abc2",
+                "yearOfPublication": 1900
+            },
+            {
+                "title": "The Queen2",
+                "author": "def2",
+                "yearOfPublication": 2013
+            },
+            {
+                "title": "The Prince2",
+                "author": "ghi2",
+                "yearOfPublication": 2016
+            }
+        ]
+    },
+    {
+        "name": "Box hill lib",
+        "address": "Box Hill",
+        "headLibrarian": {
+            "name": "Amy",
+            "age": 37
+        },
+        "books": [
+            {
+                "title": "The king3",
+                "author": "abc3",
+                "yearOfPublication": 1900
+            },
+            {
+                "title": "The Queen3",
+                "author": "def3",
+                "yearOfPublication": 2013
+            },
+            {
+                "title": "The Prince3",
+                "author": "ghi3",
+                "yearOfPublication": 2016
+            }
+        ]
+    }
+]
+
+
